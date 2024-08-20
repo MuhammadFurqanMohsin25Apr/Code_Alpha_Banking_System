@@ -22,9 +22,8 @@ To set up and run the Banking System Using C++ locally, follow these steps:
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/MuhammadFurqanMohsin25Apr/Code_Alpha_Banking_System/tree/main
    ```
-   Replace `https://github.com/your-username/your-repository.git` with the actual URL of your GitHub repository.
 
 3. **Open the Project:**
    - Open VS Code and navigate to the folder where you cloned the repository.
@@ -62,10 +61,6 @@ Once you have compiled the project, you can use the Banking System by following 
 ## Contributing
 
 Contributions are welcome! If you have suggestions, issues, or would like to contribute code, please open an issue or pull request in the repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
 
